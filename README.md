@@ -1,6 +1,6 @@
 ## Hello World
 
-```pas
+```haskell
 import jstd
 
 process mainModule is
