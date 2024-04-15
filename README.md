@@ -1,6 +1,6 @@
 ## Hello World
 
-```ada
+```kotlin
 import jstd
 
 process mainModule is
