@@ -1,6 +1,6 @@
 ## Hello World
 
-```kotlin
+```swift
 import jstd
 
 process mainModule is
